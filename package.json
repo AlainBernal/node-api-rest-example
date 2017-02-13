@@ -1,0 +1,22 @@
+{
+  "name": "node-api-rest-example",
+  "version": "1.0.0",
+  "description": "Proyecto de api restful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlainBernal/node-api-rest-example.git"
+  },
+  "author": "Alain Bernal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlainBernal/node-api-rest-example/issues"
+  },
+  "homepage": "https://github.com/AlainBernal/node-api-rest-example#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
